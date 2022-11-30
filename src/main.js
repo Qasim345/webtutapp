@@ -42,42 +42,42 @@ const sr = ScrollReveal({
 ScrollReveal().reveal('.header .flex img', {
     duration: 2000,
     origin: 'top',
-    reset: true
+    reset: false
 });
 ScrollReveal().reveal('.header .flex .text', {
     duration: 2000,
     origin: 'bottom',
-    reset: true
+    reset: false
 });
 ScrollReveal().reveal('.about-section', {
     duration: 2000,
     origin: 'bottom',
-    reset: true
+    reset: false
 });
 ScrollReveal().reveal('.gallary .img1', {
     duration: 2000,
     origin: 'left',
-    reset: true
+    reset: false
 });
 ScrollReveal().reveal('.gallary .img2', {
     duration: 2000,
     origin: 'bottom',
-    reset: true
+    reset: false
 });
 ScrollReveal().reveal('.gallary .img3', {
     duration: 2000,
     origin: 'right',
-    reset: true
+    reset: false
 });
 ScrollReveal().reveal('.gallary .img4', {
     duration: 2000,
     origin: 'left',
-    reset: true
+    reset: false
 });
 ScrollReveal().reveal('.gallary .img5', {
     duration: 2000,
     origin: 'top',
-    reset: true
+    reset: false
 });
 ScrollReveal().reveal('.gallary .img6', {
     duration: 2000,
@@ -98,10 +98,10 @@ ScrollReveal().reveal('.gallary .img7', {
 ScrollReveal().reveal('.gallary .img8', {
     duration: 2000,
     origin: 'top',
-    reset: true
+    reset: false
 });
 ScrollReveal().reveal('.gallary .img9', {
     duration: 2000,
     origin: 'right',
-    reset: true
+    reset: false
 });
